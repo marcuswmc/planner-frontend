@@ -27,9 +27,9 @@ O Plann.er é uma aplicação web de planejamento de viagens, desenvolvida com R
 ## Link para o Projeto [![Acesse o Projeto Planner](https://img.shields.io/badge/Acesse_o_Projeto_Planner-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-app-zeta.vercel.app/)
 
 ## Imagens do projeto
-![](/planner-reactjs/public/planner.png)
-![](/planner-reactjs/public/trip-details.png)
-![](/planner-reactjs/public/create-activity-modal.png)
+![](/public/planner.png)
+![](/public/trip-details.png)
+![](/public/create-activity-modal.png)
 
 ## Como Executar o Projeto
 
