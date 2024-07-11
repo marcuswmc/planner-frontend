@@ -1,17 +1,17 @@
 # 📅 Plann.er
 
-## Descrição do Projeto
+## Project Description
 
-O Plann.er é uma aplicação web de planejamento de viagens, desenvolvida com React e TypeScript, que permite aos usuários criar, visualizar e gerenciar detalhes de suas viagens.
+Plann.er is a travel planning web application developed with React and TypeScript, allowing users to create, view, and manage the details of their trips.
 
-## Funcionalidades
+## Features
 
-- Criar uma nova viagem com destino e datas.
-- Adicionar e convidar convidados para a viagem.
-- Visualizar detalhes da viagem, incluindo atividades, convidados e links importantes.
-- Interface moderna e responsiva utilizando Tailwind CSS.
+- Create a new trip with destination and dates.
+- Add and invite guests to the trip.
+- View trip details, including activities, guests, and important links.
+- Modern and responsive interface using Tailwind CSS.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,37 +22,37 @@ O Plann.er é uma aplicação web de planejamento de viagens, desenvolvida com R
 
 ## Status
 
-🔧 **Este projeto está em andamento!** Ainda estou trabalhando em algumas funcionalidades e ajustes finais. Agradeço a compreensão e o interesse!
+🔧 **This project is in progress!** I am still working on some features and final adjustments. Thank you for your understanding and interest!
 
-## Link para o Projeto [![Acesse o Projeto Planner](https://img.shields.io/badge/Acesse_o_Projeto_Planner-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-app-zeta.vercel.app/)
+## Project Link [![Access the Plann.er Project](https://img.shields.io/badge/Access_the_Plann.er_Project-B9FBC0?style=for-the-badge&logo=github&logoColor=white)](https://planner-app-zeta.vercel.app/)
 
-## Imagens do projeto
+## Project Images
 ![](/public/planner.png)
 ![](/public/trip-details.png)
 ![](/public/create-activity-modal.png)
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. **Clone o repositório:**
+1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/seu-usuario/planner.git
+    git clone https://github.com/your-username/planner.git
     cd planner
     ```
 
-2. **Instale as dependências:**
+2. **Install dependencies:**
 
     ```bash
     npm install
     ```
 
-3. **Execute o servidor de desenvolvimento:**
+3. **Run the development server:**
 
     ```bash
     npm run dev
     ```
 
-4. **Abra o navegador e acesse:**
+4. **Open the browser and access:**
 
     ```
     http://localhost:3000
