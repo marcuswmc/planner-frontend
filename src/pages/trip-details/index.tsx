@@ -10,6 +10,7 @@ import { Button } from "../../components/button";
 export function TripDetailsPage() {
   const [ isCreateActivityModalOpen, setIsCreateActivityModalOpen ] = useState(false)
 
+
   function openCreateActivityModal() {
     setIsCreateActivityModalOpen(true)
   }
@@ -17,7 +18,6 @@ export function TripDetailsPage() {
   function closeCreateActivityModal() {
     setIsCreateActivityModalOpen(false)
   }
-
 
   return (
     <div  className="max-w-6xl px-6 py-10 mx-auto space-y-8">
