@@ -36,7 +36,7 @@ Plann.er is a travel planning web application developed with React and TypeScrip
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/planner.git
+    git clone https://github.com/marcuswmc/planner.git
     cd planner
     ```
 
